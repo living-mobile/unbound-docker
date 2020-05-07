@@ -354,8 +354,8 @@ server:
         # Quad9
         forward-addr: 9.9.9.9@853#dns.quad9.net
         forward-addr: 149.112.112.112@853#dns.quad9.net
-        # forward-addr: 2620:fe::fe@853#dns.quad9.net
-        # forward-addr: 2620:fe::9@853#dns.quad9.net
+        forward-addr: 2620:fe::fe@853#dns.quad9.net
+        forward-addr: 2620:fe::9@853#dns.quad9.net
 
         # getdnsapi.net
         # forward-addr: 185.49.141.37@853#getdnsapi.net
